@@ -1,5 +1,7 @@
 # Link In Bio Template
 
+A simple and easy to use template for a "Link in Bio" site built on Next.js/React. [View a live example of the template here.](https://sunday.dev)
+
 ## Getting Started
 
 You can run the app in dev mode with the following command:
